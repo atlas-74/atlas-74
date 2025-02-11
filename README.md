@@ -1,5 +1,6 @@
 ## Hi there 👋
 🌱 I’m currently learning the basics of programming.
+Nothing to see here yet. Coming soon!
 <!--
 **atlas-74/atlas-74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
